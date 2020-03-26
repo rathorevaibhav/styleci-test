@@ -1,7 +1,9 @@
 <?php
 
-class Test {
-	public function main () {
-		// this is  a comment.
-	}
+class test
+{
+    public function main()
+    {
+        // this is  a comment.
+    }
 }
