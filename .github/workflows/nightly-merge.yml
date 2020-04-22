@@ -1,8 +1,13 @@
 name: 'Nightly Merge'
 
+# on:
+#   schedule:
+#     - cron:  '* * * * *'
+    
 on:
-  schedule:
-    - cron:  '* * * * *'
+  push:
+    branches:
+      - master    
 
 jobs:
   nightly-merge:
