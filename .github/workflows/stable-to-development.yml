@@ -1,4 +1,4 @@
-name: 'Nightly Merge'
+name: 'Automated sync - Stable to Development'
     
 on:
   schedule:
