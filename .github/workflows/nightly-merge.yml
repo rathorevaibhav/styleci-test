@@ -1,0 +1,2 @@
+- name: Nightly Merge
+  uses: robotology/gh-action-nightly-merge@v1.2.0
